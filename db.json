@@ -1,0 +1,7 @@
+{
+  "user": [
+    { "id": 1, "name": "kamikore" },
+    { "id": 2, "name": "kami" },
+    { "id": 3, "name": "jsonplaceholder" }
+  ],
+}
